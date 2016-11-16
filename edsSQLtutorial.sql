@@ -1,5 +1,5 @@
 -- ED SQL TUTORIAL
--- SARASP3 is the server, TestData is the database, sqlTestData is the table
+-, TestData is the database, sqlTestData is the table -- EB updated
 
 -- Compare across tables
 select *
